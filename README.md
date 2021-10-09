@@ -16,9 +16,9 @@
 <p>Move to folder 'build' and download .apk or expo start</p>
 <h1>Preview</h1>
 <p align="center">
-  <img src="https://github.com/skhe55/instagram_clone/blob/master/assetsimages/1.png" width="350" title="">
-  <img src="https://github.com/skhe55/instagram_clone/blob/master/assetsimages/2.png" width="350" title="">
-  <img src="https://github.com/skhe55/instagram_clone/blob/master/assetsimages/3.png" width="350" title="">
-  <img src="https://github.com/skhe55/instagram_clone/blob/master/assetsimages/4.png" width="350" title="">
-  <img src="https://github.com/skhe55/instagram_clone/blob/master/assetsimages/5.png" width="350" title="">
+  <img src="https://github.com/skhe55/RN_gallery/blob/master/assetsimages/1.png" width="350" title="">
+  <img src="https://github.com/skhe55/RN_gallery/blob/master/assetsimages/2.png" width="350" title="">
+  <img src="https://github.com/skhe55/RN_gallery/blob/master/assetsimages/3.png" width="350" title="">
+  <img src="https://github.com/skhe55/RN_gallery/blob/master/assetsimages/4.png" width="350" title="">
+  <img src="https://github.com/skhe55/RN_gallery/blob/master/assetsimages/5.png" width="350" title="">
 </p>
