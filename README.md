@@ -9,10 +9,6 @@
 <li>npm install expo-cli --global</li><br>
 <p>Install the needed packages while in the root folder of the project</p>
 <li>npm install</li><br>
-<p>Install typescript package</p>
-<p>Install redux saga && redux</p>
-<li>yarn add redux-saga && yarn add redux && npm install react-redux</li><br>
-<p>Install bottom navigation and stack navigator.</p>
 <h1>Usage</h1>
 <p>Move to folder 'build' and download .apk or expo start</p>
 <h1>Preview</h1>
